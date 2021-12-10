@@ -4,6 +4,8 @@ src: url(../fuentes/Starjedi.ttf);}
 src: url(../fuentes/Starjout.ttf);}
 @import url('https://fonts.googleapis.com/css2?family=Amatic+SC&family=Bebas+Neue&family=Comforter+Brush&family=Dancing+Script&display=swap');
 
+nav {font-family: Starjedi;}
+
 
 body {background: url(https://thumbs.gfycat.com/HauntingFilthyAmericanbobtail-size_restricted.gif);
   background-size: cover;
@@ -11,11 +13,16 @@ body {background: url(https://thumbs.gfycat.com/HauntingFilthyAmericanbobtail-si
   -webkit-background-size: cover;}
 
   .titulo {font-family: clarita;
-  color: white;
+  color: yellow;
 font-size: 80px;
 text-align: center;}
 
 div {text-align: ;
-    height: 300px;
+    height: 800px;
     margin: 1%;
-    width: 25%;}
+    width: 50%;}
+
+aside {float: right;
+  text-align: center;}
+
+footer {color: white}
